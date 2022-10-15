@@ -3,13 +3,15 @@
 
 
 ## Definition 
-`Cassandra` ...
+`Apache Cassandra` is an **open source**, **distributed**, **decentralized**, **elastically scalable**, **highly available**, **fault-tolerant**, **tunable** and **consistent** database that bases its distribution design on **Amazon's Dynamo** and its data model on **Google's Bigtable**. Created at Facebook.
 
 
-## Overview of MongoDB 
-- xxxxx
-- xxxxx
-- xxxxx
+## Overview of Cassandra 
+- **Apache Cassandra** is an open source, distributed, decentralized, elastically scalable, highly available, fault tolerant, tunable and consistent database. 
+- **Apache Cassandra** is best used by *always available* types of online applications that require a database that is always available, that scales fast in situations of high traffic, that can be installed in a geographically distributed manner, and that require a high write performance. 
+- **Apache Cassandra** is best used by online services like Netflix, Uber, and Spotify, eCommerce websites, and Time-series applications.
+
+## Architecture of Cassandra ✏️
 
 
 ## Important Terms & Methods
@@ -25,12 +27,13 @@ xxxx
 </details>
 
 
-## 🥭 MongoDB Labs 🧪
+## 🧿 Cassandra Labs 🧪
 - [Lab 1 - Getting Started](...)
 
 
 ## Reference
-- [All Basics of Cassandra](https://medium.com/nerd-for-tech/all-basics-of-mongodb-in-10-minutes-baddaf6b6625)
+- [Cassandra overview - Part 1](https://medium.com/@aymannaitcherif/beginners-guide-to-learn-cassandra-part-1-cassandra-overview-bf1634e4ce30)
+- [Cassandra overview - Part 2](https://medium.com/@aymannaitcherif/beginners-guide-to-learn-cassandra-part-2-4e8511a4838f)
 
 
 ## Author
