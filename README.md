@@ -1,10 +1,8 @@
 # Basics of Cassandra 🧿 `🚧 In progress... 🚧`
 >In this repository, I covered the basics of Cassandra 🧿
 
-
 ## Definition 
 `Apache Cassandra` is an **open source**, **distributed**, **decentralized**, **elastically scalable**, **highly available**, **fault-tolerant**, **tunable** and **consistent** database that bases its distribution design on **Amazon's Dynamo** and its data model on **Google's Bigtable**. Created at Facebook.
-
 
 ## Overview of Cassandra 
 - **Apache Cassandra** is an open source, distributed, decentralized, elastically scalable, highly available, fault tolerant, tunable and consistent database. 
@@ -12,6 +10,7 @@
 - **Apache Cassandra** is best used by online services like Netflix, Uber, and Spotify, eCommerce websites, and Time-series applications.
 
 ## Architecture of Cassandra ✏️
+- [Cassandra Architecture](https://github.com/labrijisaad/working-with-cassandra/blob/main/Architecture%20of%20Cassandra/Cassandra%20architecture.md)
 
 
 ## Important Terms & Methods
