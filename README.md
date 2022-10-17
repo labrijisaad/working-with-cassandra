@@ -1,4 +1,9 @@
 # Basics of Cassandra 🧿 `🚧 In progress... 🚧`
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74627083/196190222-41d06b70-3551-440e-8cbd-da9eaf926070.png" width="20%"/>
+</p>
+
 >In this repository, I covered the basics of Cassandra 🧿
 
 ## Definition 
